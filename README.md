@@ -1,7 +1,11 @@
 # Project FOD
 
 ### NOTE
-[x] Use python version 3.10
+- [x] Python 3.10
+- [x] Data training in Folder FOD
+- [x] Weights Model in Folder Weights
+- [x] Screenshoot in Folder Detect
+
 
 ### Clone Project
 ```
