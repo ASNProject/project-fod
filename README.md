@@ -2,7 +2,7 @@
 
 ### NOTE
 - [x] Python 3.10
-- [x] Data training in Folder FOD
+- [x] Data training in Folder FOD-2
 - [x] Weights Model in Folder Weights
 - [x] Screenshoot in Folder Detect
 
