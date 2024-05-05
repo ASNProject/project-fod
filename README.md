@@ -12,7 +12,7 @@
 git clone https://github.com/ASNProject/project-fod.git
 ```
 
-and intall requirements
+and install requirements
 
 ```
 pip install -r requirements.txt
