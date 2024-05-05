@@ -1,5 +1,8 @@
 # Project FOD
 
+### NOTE
+[x] Use python version 3.10
+
 ### Clone Project
 ```
 git clone https://github.com/ASNProject/project-fod.git
