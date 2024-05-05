@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Bangkai Burung', 'Kertas', 'Logam', 'Pecahan Agregat']
+
+roboflow:
+  workspace: apeltaruna
+  project: fod-uvby7
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/apeltaruna/fod-uvby7/dataset/1
